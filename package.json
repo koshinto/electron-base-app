@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "main.ts",
   "author": "kosuke shinto <kou.shinto@icloud.com> https://github.com/koshinto",
+  "license": "MIT",
   "scripts": {
     "build": "webpack",
     "dev": "concurrently \"webpack-dev-server\" \"cross-env NODE_ENV=development yarn start\"",

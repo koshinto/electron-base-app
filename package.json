@@ -1,5 +1,5 @@
 {
-  "name": "stock-app",
+  "name": "electron-react-base-app",
   "version": "1.0.0",
   "main": "main.ts",
   "author": "kosuke shinto <kou.shinto@icloud.com> https://github.com/koshinto",
